@@ -3,10 +3,19 @@
 # TITLE  oneledger Case Study 
 
 ## Overview and Origin. 
-OneLedger is the shortcut for blockchain development to speed up adoption. 
+
+Blockchain technology is revolutionary innovated concept use distributed ledgers, cryptography and smart contracts to tackle and deliver secured quality products that will change the way of online services preform single aspect we know is yet to come old fashion.
+the global data is increasing rapidly, therefore, privacy and security are difficulty to maintained specially in finance sector where the most needed.
+Financial technology known as (Fintech) companies are here to solve the issue by Appling technologies to improve and automate the delivery and use of financial services.
+
+
+one of the Fintech compaanie is OneLedger
+
+indestries specially fiannace  OneLedger is the shortcut for blockchain development to speed up adoption. 
 For enterprises, Developers, investors. OneLedger provide a true universal protocol that provides a one-stop solution for enterprise blockchain applications in the form of modules and help businesses, governments, and people solve their most complex and essential challenges using the OneLedger blockchain and other disruptive technologies This makes it an ideal foundation for developing enterprise-grade applications and industry solutions across a broad array of use cases
 
-* Name of company is  oneledger
+#About The Company:#
+  oneledger
 
 * When was the company incorporated? OneLedger founded on 2017 
 
@@ -43,6 +52,15 @@ the specific financial problem  OneLedger’s is trying to slove expertise  in i
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* 
+OneLedger (OLT) is a platform that helps businesses to adapt to blockchain technology in a fast and simplified manner. The OneLedger plans to create a platform where multiple blockchains can interact with each other through the platform’s chain. The platform uses delegated proof-of-stake (DPoS) that continuously replicates an application on many machines to combine different consensus in the same chain. 
+The communication between multiple blockchains is faster with a lower transaction fee. 
+The platform helps businesses create a customized blockchain solution. According to its whitepaper, the platform aims to develop a blockchain-based platform that allows businesses to integrate their applications and products.
+The protocol shows compatibility with the Ethereum ecosystem. It offers faster and cheaper transactions than Ethereum and is more stable. The DPoS feature used in the protocol ensures four thousand transactions per second (TPS), making the protocol highly efficient. The smart contracts ensure that protocol runs on low data across the network, hence, low transaction fees. Smart contracts are just like regular contracts however, instead of being drafted on paper, these contracts run in the form of protocols on the blockchain. The platform invites more developers to create decentralized apps (Dapps) using OneLedger’s virtual machine.
+OLT is the native token of the OneLedger platform that complies with ERC-20 token standards. The users can utilize OLT to pay the network fees within the platform. The users can trade OLT tokens from other token holders or become a node (a computer server connected with the network) to acquire tokens themselves. If a user chooses to become a node, they have to stake OLT tokens after a period of commitment and quality.
+Developers need OLT tokens if they want to deploy their module to the platform. The developers submit their module and OLT tokens to the marketplace. The most relevant module receives 25 percent of the tokens reserved for the community.
+
+
 
 ## Landscape:
 
