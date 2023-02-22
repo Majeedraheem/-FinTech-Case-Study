@@ -49,7 +49,8 @@ Letter of Credit automation and management
 
 As blockchain technologies continue to evolve, OneLedger’s expertise in implementing blockchain in advisory banks, trade and the L/C system create opportunities to grow businesses by overcoming the industry’s significant challenges.
 
-![Business activity ](https://user-images.githubusercontent.com/23088451/220785878-d5ba4cd0-1334-42d5-9b34-54efff222154.png)
+![Business activity ](https://user-images.githubusercontent.com/23088451/220786473-b241df11-a841-41bf-b547-bbf84e43d2de.png)
+
 
 
 
