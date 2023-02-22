@@ -1,12 +1,12 @@
 #  OneLedger Case Study 
 
-## Overview and Origin. 
+## Overview and Origin 
 
 Blockchain technology is revolutionary innovative concept that uses distributed ledgers, cryptography and smart contracts to tackle and deliver secured quality products that will change the prespective of what online services preforms, however, the single aspect we know is yet to come an old fashion blockchain is game changer of how internet is operating.
 The global data is increasing rapidly, therefore, privacy and security are challanging to maintain specially in finance sector where the most needed.
 Financial technology known as (Fintech) companies are here to solve these challanges by Appling blockchain technologies to improve and automate the delivery and use of financial services.
 
-# About The Company:#
+# About The Company:
 
 Oneledger founded on 2017 located in Toronto Canada by, David Cao is the Founder of OneLedger who has over 3 years of blockchain experience and over 10 years of enterprise architect experience,worked at IBM Toronto Lab on the development of DB2 and WebSphere Commerce core engine. As a specialist in supply chain, payments, e-commerce  David has helped large enterprises grow exponentially, including Home Depot, Sears, and Toshiba. David is an active member in both the Hyperledger and blockchain community.
 
@@ -28,9 +28,9 @@ The smart contract built on OneLedger Protocol is a true cross-chain smart contr
 
 
 *Info fund and investors: 
-https://tracxn.com/d/companies/oneledger/__IfZ2VrFqiIWKtQEBcxrUfOXi9uz2j7BE5Poi0FmOSxU
+*https://tracxn.com/d/companies/oneledger/__IfZ2VrFqiIWKtQEBcxrUfOXi9uz2j7BE5Poi0FmOSxU
 *Info aBout how the company idea came from:
-https://medium.com/hackernoon/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
+*https://medium.com/hackernoon/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
 
 
 
@@ -49,13 +49,12 @@ Letter of Credit automation and management
 
 As blockchain technologies continue to evolve, OneLedger’s expertise in implementing blockchain in advisory banks, trade and the L/C system create opportunities to grow businesses by overcoming the industry’s significant challenges.
 
-![Business activity ](https://user-images.githubusercontent.com/23088451/220786473-b241df11-a841-41bf-b547-bbf84e43d2de.png)
-
-
-
-
-
 How does a letter of credit work?
+
+![Business activity ](https://user-images.githubusercontent.com/23088451/220787800-d381aa42-ebe3-44e6-8733-9be162e10285.png)
+
+
+
 
 Trade is transactions between trading parties in different countries, with the flow of goods and documents separated. In particular, Letter of Credit, the economic guarantee from a creditworthy bank to an exporter of goods, plays a vital role in settling trade payments.
 
