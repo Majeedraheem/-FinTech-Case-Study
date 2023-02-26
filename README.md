@@ -1,4 +1,10 @@
-#  OneLedger Case Study 
+![OneLedger_Horizontal-Logo-3](https://user-images.githubusercontent.com/23088451/221382783-cefcb8ef-ebb4-4070-a901-e6a4537d1e98.png)
+
+
+
+
+# OneLedger Case Study 
+
 
 ## Overview and Origin 
 
@@ -29,7 +35,6 @@ The smart contract built on OneLedger Protocol is a true cross-chain smart contr
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
 As blockchain technologies continue to evolve, OneLedger’s expertise in implementing blockchain in advisory banks, trade and the L/C system create opportunities to grow businesses by overcoming the industry’s significant challenges.
 
 How does a letter of credit work?
@@ -79,29 +84,59 @@ Thus we can provide customized blockchain solutions for business needs by buildi
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+There is high competention between blockchain technologies solution providers like Cosmos, Aio and Quant however, Oneleger taking unique approch differentiate how the proctol work 
+
+OneLedger vs Cosmos (Tendermint):
+Cosmos is a decentralized network of independent blockchains, which are connected through a shared communication protocol called the Inter-Blockchain Communication (IBC) protocol and uses the Tendermint consensus algorithm for validating transactions on the Cosmos network. It achieves this by using a set of validators to validate transactions and maintain the integrity of the blockchain network. 
+Validators are selected based on their stake in the network and their performance history.
+
+OneLedger provides an SDK with a restful API that lets enterprise systems drive transactions across the chains. Along with Smart Identity Management to help integrate and manage the different accounts and roles both internally and across the chains. OneLedger is able to support chain interactivity, but as a byproduct of our allowing complex business modules to span multiple chains  uses a consensus algorithm called "Proof of Stake (PoS)" for validating transactions and maintaining the integrity of the blockchain network.
+
+While Cosmos will let tokens flow from one chain to another, OneLedger will focus on ensuring that actions performed on different chains will be synchronized.
+
+OneLedger vs Aion (Nuco):
+Aion is a third generation design, whose hub and spoke model is focused on scaling and reliability. It easily connects public and private                blockchains but explicitly requires that they integrate its protocol and it uses Aion Virtual Machine (AVM) which allow for the transfer of assets and data between different blockchain networks. 
+Aion also uses a unique consensus algorithm called "Proof of Intelligence (PoI)", which combines PoS and game theory to incentivize validators to act in the best interest of the network.
+OneLedger will also support private, or permissioned, chains between trusted third parties. Its optimizations will address scalability by allowing consistent access to all of the other chains and using less rigorous synchronization primitives when possible.
+For general scalability, we’ll support multi-party side-chains, but we also expect that the demands of industries like finance will always mean that a large number of chains will continue to exist. 
+Easy and consistent access across all of them will be necessary. Unlike Aion, OneLedger’s focus is not to be the master chain but to interact with others by offloading updates approved using OneLedger’s probability 1 Byzantine Fault Tolerant consensus scheme to occur as state changes to OneLedger.
+OneLedger has channel consensus that will enable private chains as well as sidechains that correspond to other blockchains. They will be scoped so that state changes in a sidechain will eventually belong to the main chain and changes can be made visible to a trusted set of validators. These permissioned subsets can rely on optimizations when the parties are known a priori. These sidechains also support Arbitration for tighter consensus if disagreements arise.
+
+OneLedger vs OverLedger (Quant):
+OverLedger seeks to provide an operating system for blockchains, with the aim of enabling dApp portability within the decentralized realm.
+OneLedger seeks to build the dApps on the centralized side, so that they can be tested in a controlled environment, then deployed and synchronized across the blockchain space.
+OneLedger allows Master Smart Contracts that can be transpiled and deployed across the ecosystem. While this may seem similar to dApp portability, OneLedger seeks to build up the capabilities as Business Modules on the centralized side that provide usable primitives in the decentralized side. This layered architecture enables a framework that can grow in sophistication as the technologies mature. As well, it simplifies the mechanics and reduces testing. While the deployment of dApps on both platforms is obviously decentralized, on OverLedger the development of dApps must be decentralized while on OneLedger it does not have to be.
 
 
-
-
-The platform uses delegated proof-of-stake (DPoS) that continuously replicates an application on many machines to combine different consensus in the same chain. 
-The communication between multiple blockchains is faster with a lower transaction fee. 
-The platform helps businesses create a customized blockchain solution. According to its whitepaper, the platform aims to develop a blockchain-based platform that allows businesses to integrate their applications and products.
-The protocol shows compatibility with the Ethereum ecosystem. It offers faster and cheaper transactions than Ethereum and is more stable. The DPoS feature used in the protocol ensures four thousand transactions per second (TPS), making the protocol highly efficient. The smart contracts ensure that protocol runs on low data across the network, hence, low transaction fees. Smart contracts are just like regular contracts however, instead of being drafted on paper, these contracts run in the form of protocols on the blockchain. The platform invites more developers to create decentralized apps (Dapps) using OneLedger’s virtual machine.
-OLT is the native token of the OneLedger platform that complies with ERC-20 token standards. The users can utilize OLT to pay the network fees within the platform. The users can trade OLT tokens from other token holders or become a node (a computer server connected with the network) to acquire tokens themselves. If a user chooses to become a node, they have to stake OLT tokens after a period of commitment and quality.
-Developers need OLT tokens if they want to deploy their module to the platform. The developers submit their module and OLT tokens to the marketplace. The most relevant module receives 25 percent of the tokens reserved for the community.
-
+These technologies are all competing to bind together the existing chains into a massive single entity. What makes OneLedger different is that we are not trying to sit over the other chains, but rather we are interested in bridging that decentralized ecosystem with the existing centralized enterprise space.
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
-
+What domain of the financial industry is the company in?
+OneLedger's blockchain platform can be used to develop various types of applications, such as cross-border payments, supply chain finance,    asset tracking and management, and other financial services that require secure and efficient transaction processing. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+Cross-border payments:
+Increased adoption of digital payment platforms and mobile wallets for cross-border transactions
+Emergence of blockchain-based solutions for cross-border payments, offering faster, more secure, and lower-cost alternatives to traditional methods.
+Supply chain finance:
+Increased use of technology, such as blockchain, IoT, and AI, to automate and streamline supply chain processes
+Emergence of supply chain finance platforms, enabling suppliers to access funding based on their outstanding invoices and reducing reliance on traditional bank financing
+Greater focus on sustainability and responsible supply chain practices, leading to the development of ESG-focused supply chain finance solutions
+Asset tracking and management:
+Increased adoption of IoT and blockchain-based solutions for asset tracking, enabling more efficient and secure tracking of assets across supply chains and reducing the risk of fraud and theft
+Greater focus on data analytics and AI for asset management, enabling more accurate forecasting and predictive maintenance
+Emergence of tokenization and fractional ownership models for assets, enabling wider access to investment opportunities and greater liquidity in asset markets
+decenterlized finance:
+
+
 
 
 
 * What are the other major companies in this domain?
+ Ethereum,Hyperledger
 
 
 
@@ -115,21 +150,29 @@ Developers need OLT tokens if they want to deploy their module to the platform. 
 ## Results
 
 * What has been the business impact of this company so far?
+OneLedger is founded five years ago and its business impact is still growing never the less with covid-19 onledger has provided 
+OnePass soloution that provides organizations the tools to verify the health status(Covid 19 vaccine tracking/Test results) of people entering their establishments through secure, private and assurance compliant solution.
+Morever,always be private for these institutions, which means they require a way to intercommunicate across these institutions National Australia Bank (NAB). NAB was trying to connect assets off their balance sheet with a Singapore based bank and was failing OneLedger solved this problem, by bringing institutions like NAB into DeFi. 
+
 
 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-
-
-* How is your company performing relative to competitors in the same domain?
-
+blockchain technology is new era and it distrub the old uneffecient system fintech comapny have differces of how blockchain technologies model to me implemenated many there is many key preformance indicaters like adoption rate, ravenue, customer satisfacetion, operational effeciencey and market share and to access these information inside data need to be revelaed ,however, OneLedger is growing to add new partenars like Moonba the first decentralized exchange (DEX), google cloud and more which will attract more customers 
 
 
 
 
+* How is your company performing relative to competitors in the same domain? 
 
 
+
+
+
+
+
+
+Overall, both algorithms have their own unique advantages and disadvantages. Tendermint's focus on fast and secure consensus may be particularly well-suited for the interoperability-focused Cosmos network, while OneLedger's PoS algorithm may be more suitable for enterprise blockchain applications that require scalability, interoperability, and high levels of security. Ultimately, the choice of algorithm depends on the specific use case and requirements of the blockchain application in question.
 
 ## Recommendations
 
@@ -141,13 +184,15 @@ Developers need OLT tokens if they want to deploy their module to the platform. 
 
 * Why are these technologies appropriate for your solution?
 
-## References and Resources
 
+
+## References and Resources
 https://blog.oneledger.io/oneledger-in-defi
 https://blog.oneledger.io/hubfs/Website/Whitepaper/oneledger-whitepaper.en.pdf
 https://www.oneledger.io/letter-of-credit/
-*https://tracxn.com/d/companies/oneledger/__IfZ2VrFqiIWKtQEBcxrUfOXi9uz2j7BE5Poi0FmOSxU
-*https://medium.com/hackernoon/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
+https://tracxn.com/d/companies/oneledger/__IfZ2VrFqiIWKtQEBcxrUfOXi9uz2j7BE5Poi0FmOSxU
+https://medium.com/hackernoon/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
+https://medium.com/@OneLedger/comparing-oneledger-to-cosmos-aion-and-overledger-afd519f59549
 
 
 
