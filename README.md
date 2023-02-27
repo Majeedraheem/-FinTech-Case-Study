@@ -129,7 +129,8 @@ AION does is basically act as a central hub for participating networks. You can 
   - Participating networks
   - Connecting Network 
 
-Connecting Network is the protocol that provides communication between participating blockchains. Both Private and Public Chains are allowed to communicate with each other. 
+- Connecting Network:
+is the protocol that provides communication between participating blockchains. Both Private and Public Chains are allowed to communicate with each other. 
 The bridging protocol allows routing of messages between participating blockchains. The connecting bridge might have been a centralized entity, but AION replaces it with its own blockchain. Thus providing full decentralized accountability.
 The connecting network also makes sure the correctness of data, smooth flow of data, makes sure no data is lost in transaction, and manage difficulties in transactions.
 - Interchain transactions
@@ -142,8 +143,7 @@ Each interchain transaction has some basic components:
 Payload: The actual data users intend to send from one chain to another.
 Metadata: This contains the information regarding routing and fees associated with it.
 Merkle proof: This is an optional step, and users can use this step to bypass the connecting bridge.
- 
--Bridges
+- Bridges:
 Bridges are the validators who validate interchain transactions	when a bridge validator observes an interchain transaction, then the state is changed to   receive.
 The validators then sign and broadcast the transactions as valid after the forwarding fees are paid. After receiving two-thirds of the votes from validators, the state changes to On Hold.
 Additionally, the connected blockchain token will be locked and kept on hold till the transaction is completed.
@@ -151,7 +151,7 @@ Suppose the transaction gets less than two-thirds of the vote. Then the transact
 After the On Hold state, the transactions are then forwarded to the connecting network.
 When the target blockchain sends a confirmation, the state is changed to Confirmed and then to Finalized.
 After a Finalized report is shown, all the fees are distributed to the connecting network and bridge validators.
--Participating Network
+- Participating Network:
 The AION ecosystem has some guidelines that need to be fulfilled if any network wants to be a part of it. When a network passes the criteria, then they are called participating networks. There is flexibility in what or who can be a part of the AION ecosystem, and it is not only limited to blockchain entities.
 Even oracles, cryptlets, or database clusters can participate if they follow the requirements. The requirements are:
 The most obvious thing is, the participating network should be decentralized. 
