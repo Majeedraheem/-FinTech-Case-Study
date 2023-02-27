@@ -99,7 +99,6 @@ Cosmos Hub acts as the central ledger for the whole system, the security of the 
 A Cosmos zone is an independent blockchain that exchanges IBC messages with the Hub. From the Hub’s perspective, a zone is a multi-asset dynamic-membership multi-signature account that can send and receive tokens using IBC packets. Like a cryptocurrency account, a zone cannot transfer more tokens than it has, but can receive tokens from others who have them. A zone may be designated as an “source” of one or more token types, granting it the power to inflate that token supply. Atoms of the Cosmos Hub may be staked by validators of a zone connected to the Hub. While double-spend attacks on these zones would result in the slashing of atoms with Tendermint’s fork-accountability, a zone where >⅔ of the voting power are Byzantine can commit invalid state. The Cosmos Hub does not verify or execute transactions committed on other zones, so it is the responsibility of users to send tokens to zones that they trust.
 
 - Inter-blockchain Communication (IBC):
-
 Now we look at how the Hub and zones communicate with each other. For example, if there are three blockchains, “Zone1”, “Zone2”, and “Hub”, and we wish for “Zone1” to produce a packet destined for “Zone2” going through “Hub”. To move a packet from one blockchain to another, a proof is posted on the receiving chain. The proof states that the sending chain published a packet for the alleged destination. For the receiving chain to check this proof, it must be able keep up with the sender’s block headers. This mechanism is similar to that used by sidechains, which requires two interacting chains to be aware of one another via a bidirectional stream of proof-of-existence datagrams (transactions).
 
 The IBC protocol can naturally be defined using two types of transactions: an IBCBlockCommitTx transaction, which allows a blockchain to prove to any observer of its most recent block-hash, and an IBCPacketTx transaction, which allows a blockchain to prove to any observer that the given packet was indeed published by the sender’s application, via a Merkle-proof to the recent block-hash.
@@ -225,6 +224,7 @@ https://medium.com/hackernoon/oneledger-a-uniquely-interesting-enterprise-blockc
 https://v1.cosmos.network/resources/whitepaper
 https://medium.com/@OneLedger/comparing-oneledger-to-cosmos-aion-and-overledger-afd519f59549
 https://www.blockchain-council.org/blockchain/aion-blockchain/
+https://chain.link/whitepaper
 
 
 
