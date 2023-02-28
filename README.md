@@ -12,7 +12,7 @@ Blockchain technology is a revolutionary and innovative concept that uses distri
 
 Global data is increasing rapidly; therefore, privacy and security are challenging to maintain, especially in the finance sector, where they are most needed. Financial technology, known as Fintech, companies are here to solve these challenges by applying blockchain technologies to improve and automate the delivery and use of financial services.
 
-### About the Company:
+### About the Company
 OneLedger was founded in 2017 and is located in Toronto, Canada. David Cao is the Founder of OneLedger, who has over three years of blockchain experience and over 10 years of enterprise architect experience. He worked at IBM Toronto Lab on the development of DB2 and WebSphere Commerce core engine. As a specialist in supply chain, payments, and e-commerce, David has helped large enterprises grow exponentially, including Home Depot, Sears, and Toshiba. David is an active member of both the Hyperledger and blockchain community.
 
 Edwin Zhang is the Co-founder and Managing Director of OneLedger. He is a veteran in the blockchain startup and investment space, and a former Software Engineering Lead spearheading blockchain-related R&D for TribalScale - an innovation firm specializing in emerging technologies. Edwin has a vast technical background as both a blockchain developer, with Solidity and Ethereum smart contract development experience, and software developer. He brings to the table extensive investment experience backed by a technical foundation and a wide global reach within the cryptocurrency community.
@@ -26,7 +26,7 @@ Inability of businesses and individuals to easily deploy distributed application
 These two major restrictions need to be tackled. OneLedger has taken a uniquely interesting route to making blockchains interoperable, and here, OneLedger (OLT) is a platform that helps businesses adapt to blockchain technology in a fast and simplified manner. For enterprises, developers, and investors, OneLedger provides a true universal protocol that provides a one-stop solution for enterprise blockchain applications in the form of modules. The smart contract built on the OneLedger Protocol is a true cross-chain smart contract. The OneLedger plans to create a platform where multiple blockchains can interact with each other through the platform's chain.
 
 
-## Business Activities:
+## Business Activities
 
 As blockchain technologies continue to evolve, OneLedger’s expertise in implementing blockchain in advisory banks, trade and the L/C system create opportunities to grow businesses by overcoming the industry’s significant challenges.
 
@@ -46,7 +46,7 @@ Trading parties and international organisations have gone to great lengths to ad
 Other raised issue is that If the exporter presents documents that do not meet the conditions of the letter of credit, the payment cannot be collected. The importer has a limitation that the quality of the goods is not guaranteed even if the documents match.
 Credit risk arising from trade transactions and the cost of complicated procedures are factors that increase barriers to entry into international trade.
 
-The solution to these challenges:
+The solution to these challenges
 Letter of credit using blockchain will bring to businesses: transaction-related costs can be significantly reduced because they are not subject to central control and resolve obstacles to current L/C transactions and prevent fraud.
 Letter of credit and all data can store on all parties networks, which can’t be tampered with and verified simultaneously: immutability.
 L/C will be created as NFT on Smart contract and when there is a new transaction, parties certify the transaction in real-time: security and confidentiality.
@@ -76,8 +76,9 @@ Thus we can provide customized blockchain solutions for business needs by buildi
 Oneledger development of dApps must be decentralized many other projects like overledger has to be centeralized.
 with oneledger allowing complex business modules to span multiple chains OneLedger focus on ensuring that actions performed on different chains will be synchronized which provide high speed process, mermory management and reduced time consumsion.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-There is high competention between blockchain technologies solution providers like Cosmos, Aio and Quant however, Oneleger taking unique approch differentiate how the proctol work, here is other projects and what technology they are using:
+There is high competention between blockchain technologies solution providers and what technology are using and how they are implemented them.
+companies like Cosmos, Aio and Quant however, Oneleger taking unique approch differeciate how the protocol work, here some projects with different 
+blockchain technology implementaion:
 
 ##### Cosmos (Tendermint):
 Cosmos is a decentralized network of independent blockchains, which are connected through a shared communication protocol called the Inter-Blockchain Communication (IBC) protocol and uses the Tendermint consensus algorithm for validating transactions on the Cosmos network.
@@ -159,57 +160,45 @@ Should be able to differentiate between regular and interchain transactions.
 Familiar with consensus protocol used by the bridge and storing valid transactions.
 Should have the ability to freeze up transactions when the state is On-Hold.
  
-These technologies are all competing to bind together the existing chains into a massive single entity. What makes OneLedger different is that we are not trying to sit over the other chains, but rather we are interested in bridging that decentralized ecosystem with the existing centralized enterprise space.
+These technologies are all competing to bind together the existing chains into a massive single entity. What makes OneLedger different is not trying to sit over the other chains, but rather interested in bridging that decentralized ecosystem with the existing centralized enterprise space.
 
 
-## Landscape:
-
-OneLedger's blockchain platform can be used to develop various types of applications, such as cross-border payments, supply chain finance, asset tracking and management, and other financial services that require secure and efficient transaction processing. 
+## Landscape
+OneLedger's blockchain platform can be used to develop various types of applications, such as cross-border payments, supply chain finance, asset tracking and management, and other financial services that require secure and efficient transaction processing, Morever comapnies like Ripple, Chain, Stellar, Ethereum, ConsenSys are very competitive in finance and are investing away more in makrketing and development.
 Over the last 5-10 years There is trends and innovations of the finannce sector and how blockchaing technology will shift the old finannce for example 
 Cross-border payments:
-Increased adoption of digital payment platforms and mobile wallets for cross-border transactions
-Emergence of blockchain-based solutions for cross-border payments, offering faster, more secure, and lower-cost alternatives to traditional methods.
+Increased adoption of digital payment platforms and mobile wallets for cross-border transactions, emergence of blockchain-based solutions for cross-border payments, offering faster, more secure, and lower-cost alternatives to traditional methods.
 Supply chain finance:
-*Increased use of technology, such as blockchain, IoT, and AI, to automate and streamline supply chain processes
+Increased use of technology, such as blockchain, IoT, and AI, to automate and streamline supply chain processes
 Emergence of supply chain finance platforms, enabling suppliers to access funding based on their outstanding invoices and reducing reliance on traditional bank financing
 Greater focus on sustainability and responsible supply chain practices, leading to the development of ESG-focused supply chain finance solutions
 Asset tracking and management:
 Increased adoption of IoT and blockchain-based solutions for asset tracking, enabling more efficient and secure tracking of assets across supply chains and reducing the risk of fraud and theft
 Greater focus on data analytics and AI for asset management, enabling more accurate forecasting and predictive maintenance
 Emergence of tokenization and fractional ownership models for assets, enabling wider access to investment opportunities and greater liquidity in asset markets
-decenterlized finance:
-
-
-
-* What are the other major companies in this domain?
- Ethereum,Hyperledger
-
-
-
-
+Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies.
 
 ## Results
-What has been the business impact of this company so far?
 OneLedger is founded five years ago and its business impact is still growing never the less with covid-19 onledger has provided 
-OnePass soloution that provides organizations the tools to verify the health status(Covid 19 vaccine tracking/Test results) of people entering their establishments through secure, private and assurance compliant solution.
+OnePass soloution for organizations the tools to verify the health status(Covid 19 vaccine tracking/Test results) of people entering their establishments through secure, private and assurance compliant solution.
 Morever,always be private for these institutions, which means they require a way to intercommunicate across these institutions National Australia Bank (NAB). NAB was trying to connect assets off their balance sheet with a Singapore based bank and was failing OneLedger solved this problem, by bringing institutions like NAB into DeFi. 
 
-blockchain technology is new era and it distrub the old uneffecient system fintech comapny have differces of how blockchain technologies model to be implemenated. key preformance indicaters like adoption rate, ravenue, customer satisfacetion, operational effeciencey and market share, however to access these information inside data need to be revelaed.
+blockchain technology is new era and it distrub the old inefficient system fintech comapny have differcess of how blockchain technologies model to be implemenated. 
+key preformance indicaters like adoption rate, ravenue, customer satisfacetion, operational effeciencey and market share, however to access these information inside data need to be revelaed.
 OneLedger is growing by keep adding new partenars like Moonba the first decentralized exchange (DEX), google cloud and more which will attract more customers and increase revenue, moreever, it will accelerate the adoption rate over .
-
-
-
-
-How is your company performing relative to competitors in the same domain? 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Since blockchain technology is on its early stages of adoption and massive increasing of data voloume everyday scalablbilty would be problem at 
-some point, Morever, with all other compiters awarness of the problem. hybird smart contract which is intrduced by ChainLink would be prefect soultion for oneledger to over come scalabilty future problem.
+Since blockchain technology is on its early stages of adoption and massive increasing of data voloume everyday will lead to scalablbilty problem at 
+some point, Morever, with all other compiters awarness of the problem oneleger need to consider and scal up thier model.
+
+hybird smart contract which is intrduced by ChainLink would be prefect soultion for oneledger to over come scalabilty future problem.
 developers need to keep developing oneledger platform competively also the makrketing in sports sector will benfit the company.
-Hybrid smart contracts are  meta contracts. Meta contracts are applications coded on a decentralized metalayer and implicitly encompass on-chain logic (smart contracts), as well as off- chain computation and connectivity among various blockchains and existing off-chain services. Given the need for language and compiler support, new security models, and conceptual and technical harmonization of disparate technologies, however, realization of a true decentralized metalayer is an ambitious goal to which we aspire over a long time horizon. It is nonetheless a helpful ideal model to keep in mind while reading this paper, not detailed here, but something we plan to focus on in our future work on Chainlink.
+
+Hybrid smart contracts are  meta contracts. Meta contracts are applications coded on a decentralized metalayer and implicitly encompass on-chain logic (smart contracts), as well as off- chain computation and connectivity among various blockchains and existing off-chain services. Given the need for language and compiler support, new security models, and conceptual and technical harmonization of disparate technologies, however, realization of a true decentralized metalayer is an ambitious goal to which we aspire over a long time horizon. 
+Decentralized Oracle Networks, or DONs it acts as a powerful abstraction layer, offering interfaces for smart contracts to extensive off-chain resources and highly efficient yet decentralized off-chain computing resources within the DON itself.
+
 
 
 
